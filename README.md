@@ -5,11 +5,28 @@ EasySplit is a full-stack MERN application designed to help users manage shared 
 🚀 Features
 🔐 Authentication
 
-Register a new account
+#HOME
 
-![Home](./assets/Home.png)
+![Home](Home.png)
 
-Login/logout functionality
+###Login/logout functionality
+
+![Login](Login.png)
+
+#Register
+![Register](Register.png)
+
+#Dashboard
+![Dashboard](Dashboard.png)
+
+#Group
+![Group](Group.png)
+
+
+
+
+
+
 
 Secure access to personal and group data
 
